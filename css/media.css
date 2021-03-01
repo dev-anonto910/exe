@@ -1,0 +1,548 @@
+
+@media(min-width:768px) and (max-width:991px){
+ 
+    .service-item h3::after {
+        display: none;
+     }
+
+     .head h2::after {
+        left: 38%;
+        bottom: -189%;
+    }
+    .port-services ul li {
+        
+        padding: 10px 14px;
+    }
+
+    .port-info {
+        padding-top: 54px;
+        padding-bottom: 25px;
+    }
+
+
+    #stuff {
+        padding-top: 32px;
+    }
+    .st-head {
+        padding-top: 10px;
+    }
+    #stuff .head h2 {
+        
+        font-size: 17px;
+        padding-bottom: 0;
+    }
+    #stuff .head p {
+       
+        font-size: 7px;
+    }
+
+    #stuff .head h2::after {
+       display: none;
+    }
+    .stuff-main {
+        margin-top: 70px;
+    }
+
+    .port-info {
+        padding-top: 35px;
+        padding-bottom: 20px;
+    }
+
+    .stuff-item h3 {
+        font-size: 40px;
+        padding-top: 3px;
+        padding-bottom: 0px;
+    }
+    .stuff-item h4 {
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        font-size: 25px;
+        color: #e5493a;
+    }
+
+    .stuff-item p {
+      display: none;
+    }
+    .cmnt-image {
+        padding: 0 0;
+    }
+
+    .cmnt-text p {
+       
+        padding-right: 40px;
+        padding-left: 20px;
+    }
+
+    .cmnt-text h6 {
+       
+        top: -18px;
+        right: -74px;
+      
+        padding-right: 90px;
+    }
+
+    .cmnt-text h4 {
+       
+        padding-left: 20px;
+    }
+
+    #red-logo{
+        display: none;
+    }
+
+
+
+
+}
+
+@media(min-width:576px) and (max-width:767px){
+
+    .navbar-nav {
+       
+        text-align: center;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+       
+        line-height: 45px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+       
+        top: 10px;
+        left: 120px;
+    }
+    .nav-x{
+        text-align: center;
+    }
+
+    .banner-text h1 {
+       
+        font-size: 35px;
+    }
+    .banner-text h2 {  
+        font-size: 25px;
+    
+    }
+
+    .banner-text p {
+       
+        font-size: 15px;
+        margin-bottom: 18px;
+    }
+
+    .b-text a {
+      
+        font-size: 6px;
+        padding: 9px 17px;
+    }
+
+    .intro-text h3 {
+       
+        font-size: 14px;
+    }
+    .intro-text p {
+        font-size: 11px;
+
+    }
+
+    #intro {
+        padding-top: 17px;
+        padding-bottom: 18px;
+    }
+
+   
+    #service {
+        padding-top: 60px;
+        padding-bottom: 23px;
+    }
+
+    #gallery {
+        padding-top: 25px;
+    }
+        
+    .head h2::after {
+        left: 22%;
+        bottom: -230%;
+    }
+    .port-services ul li {
+
+        padding: 10px 4px;
+    }
+
+
+    .service-item h3::after {
+       display: none;
+    }
+
+
+    .port-services ul li {
+        padding: 4px 0px;
+    }
+
+    #gallery {
+        padding-top: 25px;
+    }
+
+
+    #stuff {
+        padding-top: 32px;
+    }
+    .st-head {
+        padding-top: 10px;
+    }
+    #stuff .head h2 {
+        
+        font-size: 17px;
+        padding-bottom: 0;
+    }
+    #stuff .head p {
+       
+        font-size: 7px;
+    }
+
+    #stuff .head h2::after {
+       display: none;
+    }
+    .stuff-main {
+        margin-top: 40px;
+    }
+
+    .port-info {
+        padding-top: 35px;
+        padding-bottom: 20px;
+    }
+
+    .stuff-item h3 {
+        font-size: 18px;
+        padding-top: 3px;
+        padding-bottom: 0px;
+    }
+    .stuff-item h4 {
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        font-size: 15px;
+        color: #e5493a;
+    }
+
+    .stuff-item p {
+      display: none;
+    }
+
+    .head h2::after {
+        left: 32%;
+        bottom: -165%;
+    }
+
+
+    .ftr {
+        padding-top: 0px;
+        margin-bottom: 25px;
+    }
+
+    .ftr-item {
+       
+        margin-bottom: 10px;
+    }
+
+    #red-logo{
+        display: none;
+    }
+    #footer {
+        padding-top: 30px;
+        
+    }
+    .form-det h3 {
+        padding-top: 15px;
+        font-size: 12px;
+    }
+    
+    .det-fttr-content i {
+    
+        margin: 0 0px;
+    }
+    
+    .service-item h3::after {
+    display: none;
+    }
+    
+    .footer-list ul li a {
+       
+        padding-left: 0px;
+    }    
+
+    .service-item h3::after {
+        display: none;
+    }
+
+    
+
+
+
+
+
+}
+
+
+
+
+@media(max-width:575.98px){
+
+    .navbar-nav {
+       
+        text-align: center;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+       
+        line-height: 45px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+       
+        top: 10px;
+        left: 120px;
+    }
+    .nav-x{
+        text-align: center;
+    }
+
+    .banner-text h1 {
+       
+        font-size: 24px;
+    }
+    .banner-text h2 {  
+        font-size: 15px;
+    
+    }
+
+    .banner-text p {
+       
+        font-size: 10px;
+        margin-bottom: 18px;
+    }
+
+    .b-text a {
+      
+        font-size: 6px;
+        padding: 9px 17px;
+    }
+   
+    .intro-text h3 {
+       
+        font-size: 14px;
+    }
+    .intro-text p {
+        font-size: 11px;
+
+    }
+
+    #intro {
+        padding-top: 17px;
+        padding-bottom: 18px;
+    }
+
+    #service {
+        padding-top: 60px;
+        padding-bottom: 23px;
+    }
+
+    #gallery {
+        padding-top: 25px;
+    }
+        
+    .head h2::after {
+        left: 22%;
+        bottom: -230%;
+    }
+    .port-services ul li {
+
+        padding: 10px 4px;
+    }
+
+
+    #stuff {
+        padding-top: 32px;
+    }
+    .st-head {
+        padding-top: 10px;
+    }
+    #stuff .head h2 {
+        
+        font-size: 17px;
+        padding-bottom: 0;
+    }
+    #stuff .head p {
+       
+        font-size: 7px;
+    }
+
+    #stuff .head h2::after {
+       display: none;
+    }
+    .stuff-main {
+        margin-top: -21px;
+    }
+
+    .port-info {
+        padding-top: 35px;
+        padding-bottom: 20px;
+    }
+
+    .stuff-item h3 {
+        font-size: 13px;
+        padding-top: 3px;
+        padding-bottom: 0px;
+    }
+    .stuff-item h4 {
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        font-size: 9px;
+        color: #e5493a;
+    }
+
+    .stuff-item p {
+      display: none;
+    }
+
+    .head h2 {
+      
+        font-size: 22px;
+        padding-bottom: 5px;
+    }
+
+    .head h2::after {
+       display: none;
+    }
+
+    .head p {
+      
+        font-size: 10px;
+    }
+    .ftr {
+        padding-top: 0px;
+        margin-bottom: 25px;
+    }
+
+    .ftr-item {
+       
+        margin-bottom: 6px;
+    }
+
+    .ftr-item h3 {
+       
+        padding: 0px 0px;
+    }
+
+    .ftr-item i {
+       
+        top: 12px;
+    }
+
+    .ftr-item p {
+       
+        font-size: 11px;
+    }
+    .cmnt-text h6 {
+      
+        right: -68px;
+        top: 115px;
+    }
+    .cmnt-text p {
+       
+        padding-right: 0px;
+    }
+    .cmnt-image {
+        padding: 0px 94px;
+    }
+    .cmnt-text {
+       
+        text-align: center;
+    }
+
+    .blog-main {
+        padding-top: 30px;
+        padding-bottom: 20px;
+    }
+
+
+    #theme {
+        padding-top: 30px;
+    }
+    .theme-main {
+        padding-top: 10px;
+    }
+
+    .theme-text {
+        padding-top: 10px;
+        text-align: center;
+    }
+
+    .single-logo {
+        padding-top: 0px;
+        
+    }
+    .logos-overlay i {
+       
+        width: 15px;
+        height: 15px;
+        line-height: 15px;
+    }
+    .ll {
+        left: 0%;
+        top: 30%;
+    }
+    .rl {
+        right: -90%;
+        top: 30%;
+    }
+
+#red-logo{
+    display: none;
+}
+#footer {
+	padding-top: 30px;
+	
+}
+.form-det h3 {
+	padding-top: 15px;
+    font-size: 12px;
+}
+
+.det-fttr-content i {
+
+	margin: 0 0px;
+}
+
+.service-item h3::after {
+display: none;
+}
+
+
+
+}
+
+
+@media(min-width:470px) and (max-width:575px){
+
+    .stuff-main {
+        margin-top: 20px;
+    }
+    .port-services ul li {
+        padding: 4px 2px;
+    }
+    .banner-text p {
+        font-size: 14px;
+         }
+
+   
+         .ftr-item i {
+            top: -1px;
+        }
+   }
+
+
+
+
+
+
+
+    
